@@ -1,2 +1,0 @@
-# Bio
-info about myself
